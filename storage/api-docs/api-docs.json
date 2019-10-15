@@ -1,0 +1,13 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "title": "Simple blog",
+        "description": "Blog in DDD arhitecture",
+        "contact": {
+            "email": "orine90@gmail.com"
+        },
+        "version": "1.0"
+    },
+    "paths": {},
+    "definitions": {}
+}
